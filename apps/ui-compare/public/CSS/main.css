@@ -1,0 +1,7 @@
+#hubspot-messages-iframe-container.widget-align-right.show-element {
+  display: initial !important;
+}
+
+#hubspot-messages-iframe-container.widget-align-right {
+  display: none !important;
+}

@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://bikebook.co.uk
+
+# Sitemaps
+Sitemap: https://bikebook.co.uk/sitemap.xml

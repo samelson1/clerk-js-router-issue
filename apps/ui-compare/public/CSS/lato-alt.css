@@ -1,0 +1,56 @@
+﻿@font-face {
+    font-family: "Lato";
+    font-style: normal;
+    font-weight: 700;
+    src: url("//db.onlinewebfonts.com/t/9d942e0ff1014c476713a855710ce309.eot");
+    src: url("//db.onlinewebfonts.com/t/9d942e0ff1014c476713a855710ce309.eot?#iefix") format("embedded-opentype"), url('/Fonts/Lato/Lato-Bold.woff2') format("woff2"), url("//db.onlinewebfonts.com/t/9d942e0ff1014c476713a855710ce309.woff") format("woff"), url("//db.onlinewebfonts.com/t/9d942e0ff1014c476713a855710ce309.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/9d942e0ff1014c476713a855710ce309.svg#Lato") format("svg");
+}
+
+
+@font-face {
+    font-family: "Lato";
+    font-style: normal;
+    font-weight: 800;
+    src: url("//db.onlinewebfonts.com/t/0631f0bef40cc228524e492db592b5fb.eot");
+    src: url("//db.onlinewebfonts.com/t/0631f0bef40cc228524e492db592b5fb.eot?#iefix") format("embedded-opentype"), url('/Fonts/Lato/Lato-Heavy.woff2') format("woff2"), url("//db.onlinewebfonts.com/t/0631f0bef40cc228524e492db592b5fb.woff") format("woff"), url("//db.onlinewebfonts.com/t/0631f0bef40cc228524e492db592b5fb.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/0631f0bef40cc228524e492db592b5fb.svg#Lato Heavy") format("svg");
+}
+
+@font-face {
+    font-family: "Lato";
+    font-style: normal;
+    font-weight: 300;
+    src: url("//db.onlinewebfonts.com/t/5a012dbdb52ab9b13e4d66f1bc9b83c0.eot");
+    src: url("//db.onlinewebfonts.com/t/5a012dbdb52ab9b13e4d66f1bc9b83c0.eot?#iefix") format("embedded-opentype"), url('/Fonts/Lato/Lato-Light.woff2') format("woff2"), url("//db.onlinewebfonts.com/t/5a012dbdb52ab9b13e4d66f1bc9b83c0.woff") format("woff"), url("//db.onlinewebfonts.com/t/5a012dbdb52ab9b13e4d66f1bc9b83c0.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/5a012dbdb52ab9b13e4d66f1bc9b83c0.svg#Lato") format("svg");
+}
+
+@font-face {
+    font-family: "Lato";
+    font-style: normal;
+    font-weight: 900;
+    src: url("//db.onlinewebfonts.com/t/5c856f44a9b1c59665a9a40dcd01a93a.eot");
+    src: url("//db.onlinewebfonts.com/t/5c856f44a9b1c59665a9a40dcd01a93a.eot?#iefix") format("embedded-opentype"), url('/Fonts/Lato/Lato-Black.woff2') format("woff2"), url("//db.onlinewebfonts.com/t/5c856f44a9b1c59665a9a40dcd01a93a.woff") format("woff"), url("//db.onlinewebfonts.com/t/5c856f44a9b1c59665a9a40dcd01a93a.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/5c856f44a9b1c59665a9a40dcd01a93a.svg#Lato") format("svg");
+}
+
+@font-face {
+    font-family: "Lato";
+    font-style: normal;
+    font-weight: 500;
+    src: url("//db.onlinewebfonts.com/t/a2b67a66a2c10e9d33ad123a89885f97.eot");
+    src: url("//db.onlinewebfonts.com/t/a2b67a66a2c10e9d33ad123a89885f97.eot?#iefix") format("embedded-opentype"), url('/Fonts/Lato/Lato-Medium.woff2') format("woff2"), url("//db.onlinewebfonts.com/t/a2b67a66a2c10e9d33ad123a89885f97.woff") format("woff"), url("//db.onlinewebfonts.com/t/a2b67a66a2c10e9d33ad123a89885f97.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/a2b67a66a2c10e9d33ad123a89885f97.svg#Lato Medium") format("svg");
+}
+
+@font-face {
+    font-family: "Lato";
+    font-style: normal;
+    font-weight: 400;
+    src: url("//db.onlinewebfonts.com/t/e080040fab017e068ee2901a6cdb5ec4.eot");
+    src: url("//db.onlinewebfonts.com/t/e080040fab017e068ee2901a6cdb5ec4.eot?#iefix") format("embedded-opentype"), url('/Fonts/Lato/Lato-Regular.woff2') format("woff2"), url("//db.onlinewebfonts.com/t/e080040fab017e068ee2901a6cdb5ec4.woff") format("woff"), url("//db.onlinewebfonts.com/t/e080040fab017e068ee2901a6cdb5ec4.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/e080040fab017e068ee2901a6cdb5ec4.svg#Lato") format("svg");
+}
+
+@font-face {
+    font-family: "Lato";
+    font-style: normal;
+    font-weight: 600;
+    src: url("//db.onlinewebfonts.com/t/1287a75db2604072c6e244bf61421ac6.eot");
+    src: url("//db.onlinewebfonts.com/t/1287a75db2604072c6e244bf61421ac6.eot?#iefix") format("embedded-opentype"), url('/Fonts/Lato/Lato-Semibold.woff2') format("woff2"), url("//db.onlinewebfonts.com/t/1287a75db2604072c6e244bf61421ac6.woff") format("woff"), url("//db.onlinewebfonts.com/t/1287a75db2604072c6e244bf61421ac6.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/1287a75db2604072c6e244bf61421ac6.svg#Lato Semibold") format("svg");
+}

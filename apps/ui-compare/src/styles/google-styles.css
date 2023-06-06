@@ -1,0 +1,67 @@
+.gm-ui-hover-effect {
+  opacity: 0.6;
+}
+.gm-ui-hover-effect:hover {
+  opacity: 1;
+}
+.gm-ui-hover-effect > span {
+  background-color: #000;
+}
+@media (forced-colors: active), (prefers-contrast: more) {
+  .gm-ui-hover-effect > span {
+    background-color: ButtonText;
+  }
+}
+sentinel {
+}
+.gm-style .gm-style-cc a,
+.gm-style .gm-style-cc button,
+.gm-style .gm-style-cc span,
+.gm-style .gm-style-mtc div {
+  font-size: 10px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.gm-style .gm-style-cc a,
+.gm-style .gm-style-cc button,
+.gm-style .gm-style-cc span {
+  outline-offset: 3px;
+}
+sentinel {
+}
+@media print {
+  .gm-style .gmnoprint,
+  .gmnoprint {
+    display: none;
+  }
+}
+@media screen {
+  .gm-style .gmnoscreen,
+  .gmnoscreen {
+    display: none;
+  }
+}
+.gm-style-moc {
+  background-color: rgba(0, 0, 0, 0.45);
+  pointer-events: none;
+  text-align: center;
+  -webkit-transition: opacity ease-in-out;
+  -o-transition: opacity ease-in-out;
+  transition: opacity ease-in-out;
+}
+.gm-style-mot {
+  color: white;
+  font-family: Roboto, Arial, sans-serif;
+  font-size: 22px;
+  margin: 0;
+  position: relative;
+  top: 50%;
+  -moz-transform: translateY(-50%);
+  -o-transform: translateY(-50%);
+  transform: translateY(-50%);
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+}
+sentinel {
+}
